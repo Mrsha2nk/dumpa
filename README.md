@@ -1,2 +1,2 @@
 # dumpa
-Dhumpa :time: the count tracker `monorepo` :rocket:
+Dhumpa :watch: the count tracker `monorepo` :rocket:
